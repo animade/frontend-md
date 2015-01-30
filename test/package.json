@@ -1,0 +1,7 @@
+{
+  "name": "Frontend",
+  "frontend": {
+    "stylesheets": "source/stylesheets",
+    "javascripts": "source/javascripts"
+  }
+}

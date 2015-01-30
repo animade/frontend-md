@@ -1,0 +1,33 @@
+{
+  "name": "Frontend.md",
+  "version": "0.0.0",
+  "description": "Document your frontend code structure in seconds",
+  "main": "index.js",
+  "dependencies": {
+    "liftoff": ">= 2.0.x",
+    "walk": "",
+    "moment": "",
+    "underscore": "",
+    "nconf": "",
+    "cli-color": ""
+  },
+  "engine": "node >= 0.10.x",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://jameschambers@github.com/animade/frontend-md.git"
+  },
+  "main": "lib/frontend",
+  "preferGlobal": "true",
+  "bin": {
+    "frontend.md": "app.js"
+  },
+  "author": "James Chambers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/animade/frontend-md/issues"
+  },
+  "homepage": "https://github.com/animade/frontend-md"
+}
