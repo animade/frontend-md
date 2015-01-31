@@ -47,18 +47,18 @@ In the root directory of your project name sure there is a `package.json` file w
 
 ```` 
 {
-  "name": "YOUR PROJECT NAME",
   "frontend": {
+    "name": "YOUR PROJECT NAME",
     "stylesheets": "PATH/TO/STYLESHEETS/FOLDER",
     "javascripts": "PATH/TO/JAVASCRIPTS/FOLDER"
   }
 }
 ````
 
-Now you can generate your `FRONTEND.md` file by running the following from the root directory:
+Now you can generate your `FRONTEND.md` file by running the following from the root of your project:
 
 ````
-frontend.md
+frontend-md
 ````
 
 All being well, you'll see something like this:
@@ -71,9 +71,10 @@ All being well, you'll see something like this:
 
 ### Limitations
 
-- Currently only works with `.scss` and `.js` files
+- Currently only works compatible with `.scss` and `.js` files
 
 ### Roadmap
 
 - Add Bower overview
+- Add support for Coffeescript
 - Add support for Javascript view templates

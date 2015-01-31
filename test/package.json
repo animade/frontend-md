@@ -1,6 +1,6 @@
 {
-  "name": "Frontend",
   "frontend": {
+    "name": "Frontend Example",
     "stylesheets": "source/stylesheets",
     "javascripts": "source/javascripts"
   }

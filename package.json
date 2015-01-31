@@ -1,6 +1,6 @@
 {
-  "name": "Frontend.md",
-  "version": "0.0.0",
+  "name": "frontend-md",
+  "version": "0.0.1",
   "description": "Document your frontend code structure in seconds",
   "main": "index.js",
   "dependencies": {
@@ -17,13 +17,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://jameschambers@github.com/animade/frontend-md.git"
+    "url": "http://github.com/animade/frontend-md.git"
   },
   "main": "lib/frontend",
   "preferGlobal": "true",
-  "bin": {
-    "frontend.md": "app.js"
-  },
+  "bin": "app.js",
   "author": "James Chambers",
   "license": "MIT",
   "bugs": {
