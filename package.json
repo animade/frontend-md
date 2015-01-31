@@ -4,7 +4,6 @@
   "description": "Generate simple documention for your Sass & Javascript in seconds",
   "main": "index.js",
   "dependencies": {
-    "liftoff": ">= 2.0.x",
     "walk": "",
     "moment": "",
     "underscore": "",
