@@ -1,4 +1,4 @@
-#! /usr/bin/env node
+#!/usr/bin/env node
 
 var setup = require("./lib/setup"),
   filetree = require("./lib/filetree"),

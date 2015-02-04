@@ -12,7 +12,8 @@
   },
   "engine": "node >= 0.10.x",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "chmod u+x app.js"
   },
   "repository": {
     "type": "git",
