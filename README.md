@@ -79,6 +79,7 @@ This is a very simple project and is held together by bits of string and sticky 
 
 ### Roadmap
 
+- Support for LESS
+- Support for Coffeescript
+- Support for Javascript view templates (hamlc etc)
 - Add Bower overview
-- Add support for Coffeescript
-- Add support for Javascript view templates
