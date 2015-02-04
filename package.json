@@ -1,6 +1,6 @@
 {
   "name": "frontend-md",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generate simple documention for your Sass & Javascript in seconds",
   "main": "index.js",
   "dependencies": {
