@@ -65,7 +65,7 @@ All being well, you'll see something like this:
 
 ````
 ✔ Found package.json...
-✔ Found javascripts & stylesheets folders...
+✔ Found javascripts, stylesheets & templates folders...
 ✔ FRONTEND.md successfully created :-)
 ````
 
@@ -75,7 +75,10 @@ This is a very simple project and is held together by bits of string and sticky 
 
 ### Limitations
 
-- Currently only works compatible with `.scss` and `.js` files
+- Currently only works compatible with:
+  - Jade (`.jade`)
+  - Sass (`.sass` & `.scss`)
+  - Javascript (`.js`)
 
 ### Roadmap
 
