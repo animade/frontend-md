@@ -75,11 +75,10 @@ This is a very simple project and is held together by bits of string and sticky 
 
 ### Limitations
 
-- Currently only works compatible with `.scss` and `.js` files
+- Currently only works compatible with `.scss`, `less` and `.js` files
 
 ### Roadmap
 
-- Support for LESS
 - Support for Coffeescript
 - Support for Javascript view templates (hamlc etc)
 - Add Bower overview
