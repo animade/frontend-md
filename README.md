@@ -75,7 +75,7 @@ This is a very simple project and is held together by bits of string and sticky 
 
 ### Limitations
 
-- Currently only works compatible with `.sass`, `.scss` and `.js` files
+- Currently compatible with `.sass`, `.scss` and `.js` files
 
 ### Roadmap
 
