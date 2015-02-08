@@ -1,6 +1,6 @@
 # Frontend.md
 
-## Generate simple documention for your Sass & Javascript in seconds. 
+## Generate simple documention for your frontend code in seconds. 
 
 ### Introduction
 
