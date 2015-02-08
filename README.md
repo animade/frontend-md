@@ -75,11 +75,15 @@ This is a very simple project and is held together by bits of string and sticky 
 
 ### Limitations
 
-- Currently compatible with `.sass`, `.scss` and `.js` files
+Currently compatible with the following file extensions:
+
+- .sass
+- .less
+- .scss 
+- .js
 
 ### Roadmap
 
-- Support for LESS
 - Support for Coffeescript
 - Support for Javascript view templates (hamlc etc)
 - Add Bower overview
