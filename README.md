@@ -1,6 +1,6 @@
 # Frontend.md
 
-## Generate simple documention for your frontend code in seconds. 
+## Generate simple documentation for your frontend code in seconds. 
 
 ### Introduction
 
