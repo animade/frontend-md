@@ -1,6 +1,6 @@
 # Frontend.md
 
-## Generate simple documention for your Sass & Javascript in seconds. 
+## Generate simple documentation for your frontend code in seconds. 
 
 ### Introduction
 
@@ -65,7 +65,7 @@ All being well, you'll see something like this:
 
 ````
 ✔ Found package.json...
-✔ Found javascripts, stylesheets & templates folders...
+✔ Found javascripts & stylesheets folders...
 ✔ FRONTEND.md successfully created :-)
 ````
 
@@ -75,14 +75,16 @@ This is a very simple project and is held together by bits of string and sticky 
 
 ### Limitations
 
-- Currently only works compatible with:
-  - Jade (`.jade`)
-  - Sass (`.sass` & `.scss`)
-  - Javascript (`.js`)
+Currently compatible with the following file extensions:
+
+- .sass
+- .less
+- .scss 
+- .js
+- .jade
 
 ### Roadmap
 
-- Support for LESS
 - Support for Coffeescript
 - Support for Javascript view templates (hamlc etc)
 - Add Bower overview
