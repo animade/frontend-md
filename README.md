@@ -1,10 +1,12 @@
+<img alt="Frontend Hound" align="left" src="http://frontend-md.s3.amazonaws.com/frontend_Hound_00002.png" width="100px">
+
+### Generate simple documentation for your frontend code
+
+
 # Frontend.md
 
-## Generate simple documentation for your frontend code in seconds. 
-
-### Introduction
-
 Frontend.md looks at your frontend source code and generates a markdown file (called, predictably, FRONTEND.md) outlining the folder/file structure together with any topline comments. It's not a complete documentation system or styleguide generator. Rather it's designed to be a very simple tool which you can use on new or existing projects to get a high level view of how the code is laid out. 
+
 
 ### Features
 
@@ -87,3 +89,7 @@ Currently compatible with the following file extensions:
 - Support for Coffeescript
 - Support for Javascript view templates (hamlc etc)
 - Add Bower overview
+
+---
+
+Frontend Hound logo is courtesy of [Tom Judd](http://judd.land).
